@@ -1,0 +1,56 @@
+.Subscribe-btn {
+    background-color:black;
+    color: white;
+    /* padding:10px; */
+    /* paddint-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;  */
+
+    padding: 10px;
+    
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.Subscribe-btn:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.Join-btn {
+    background-color: aquamarine;
+    color: black;
+     /* padding:10px; */
+    /* paddint-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;  */
+    padding: 12px;
+    font-weight: bold;
+    border-radius: 40px;
+}
+
+.Join-btn:hover {
+    opacity: 2.5;
+    cursor: grab;
+}
+
+.Get_it_know-btn {
+    background-color: white;
+    color: blue;
+     /* padding:10px; */
+    /* paddint-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;  */
+    padding: 12px;
+    
+    font-weight: bold;
+    border-radius: 23px;
+}
+
+.Get_it_know-btn:focus { 
+    opacity: 2.5;
+    cursor:pointer;
+}
